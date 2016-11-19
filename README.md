@@ -1,0 +1,1 @@
+# CSGO-Redie-with-translations
