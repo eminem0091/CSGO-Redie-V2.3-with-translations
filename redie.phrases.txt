@@ -1,0 +1,38 @@
+"Phrases"
+{
+	"Dead message"
+	{
+		"en" "Type !redie into chat to respawn as a ghost."
+		"cze" "Napiš !redie do chatu pro živení jako duch."
+	}
+	
+	"You are now a ghost"
+	{
+		"en" "You are now a ghost."
+		"cze" "Stal ses duchem."
+	}
+	
+	"You must be on a team"
+	{
+		"en" "You must be on a team."
+		"cze" "Musíš být v týmu."
+	}
+	
+	"New round"
+	{
+		"en" "Please wait for the new round to begin."
+		"cze" "Prosím vyčkej dokud nezačne nové kolo."
+	}
+	
+	"You must be dead to use redie"
+	{
+		"en" "You must be dead to use redie."
+		"cze" "Musíš být mrtvý aby si mohl použít redie."
+	}
+	
+	"This server is running"
+	{
+		"en" "This server is running !redie."
+		"cze" "Na tomto serveru běží !redie"
+	}
+}
